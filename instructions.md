@@ -2,8 +2,8 @@
 First, clone your GitHub repository containing the Kivy project:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/010Mak/catch-cornish_iPhone_app.git
+cd catch-cornish_iPhone_app
 ```
 Replace `https://github.com/your-username/your-repository.git` with your repository's URL.
 
