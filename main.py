@@ -108,7 +108,7 @@ class GameWidget(Widget):
 
 class GameApp(App):
     def build(self):
-return GameWidget()
+        return GameWidget()
 
-if name == ‘main’:
-GameApp().run()
+if __name__ == '__main__':
+    GameApp().run()
